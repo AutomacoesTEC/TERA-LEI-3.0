@@ -1,4 +1,4 @@
-# TERA-LAI 3.0
+# TERA-LEI 3.0
 
 Nova base do TERA com arquitetura modular em React + Vite, focada em inteligência jurídica local-first.
 
